@@ -40,6 +40,7 @@
 - Monthly Sales Growth
 ## Dashboard
 <img width="1133" height="599" alt="supermarket sales dashboard" src="https://github.com/user-attachments/assets/9dc56764-8a89-412d-a422-0af087ac354e" />
+
 ## Project Insights – Supermarket Sales
 - The analysis revealed consistent sales growth across key time periods, with certain days and months contributing significantly to total revenue.
 - Product line analysis showed that a few categories generate the majority of sales, while some products have low demand.
