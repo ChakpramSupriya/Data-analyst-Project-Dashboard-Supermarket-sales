@@ -40,3 +40,12 @@
 - Monthly Sales Growth
 ## Dashboard
 <img width="1133" height="599" alt="supermarket sales dashboard" src="https://github.com/user-attachments/assets/9dc56764-8a89-412d-a422-0af087ac354e" />
+## Project Insights – Supermarket Sales
+- The analysis revealed consistent sales growth across key time periods, with certain days and months contributing significantly to total revenue.
+- Product line analysis showed that a few categories generate the majority of sales, while some products have low demand.
+- Customer type insights indicated that member customers tend to generate higher average sales compared to normal customers.
+- Branch-wise comparison highlighted performance differences across branches, helping identify the highest revenue–generating location.
+- High-value transactions play a major role in overall revenue contribution.
+- Interactive dashboards improved visibility into sales, customer behavior, and product performance.
+## Final Conclusion
+- In my supermarket sales project, raw sales data was effectively cleaned, analyzed, and visualized using Microsoft Excel. The project provides a clear understanding of sales performance, customer purchasing patterns, and product trends through well-structured dashboards and KPIs. This analysis supports data-driven decision-making and demonstrates strong practical skills in Excel data analysis and dashboard development.
